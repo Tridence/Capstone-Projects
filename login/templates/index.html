@@ -1,17 +1,18 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title> Index </title>
+        <title> Home </title>
         <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">                     
     </head>
     <body></br></br></br></br></br>
         <div align="center">
           <div align="center" class="border">
              <div class="header">
-                <h1 class="word">Index</h1>
-             </div></br></br></br>
+                <h1 class="word">Home</h1>
                 <h1 class="bottom">
-                     Hi {{session.username}}!!</br></br> Welcome to the Home page...                 
+                     Hi {{session.username}}!!</br></br> Welcome to our page 
+                    </br></br></br>
+                     <a href="{{ url_for('price') }}" class="btn">View Prices</a>
                 </h1></br></br></br>
                 <a href="{{ url_for('logout') }}" class="btn">Logout</a>
           </div>

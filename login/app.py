@@ -42,6 +42,14 @@ def logout():
     session.pop('id', None)
     session.pop('username', None)
     return redirect(url_for('login'))
+
+@app.route('/price')
+def price(): 
+    return render_template('price.html')
+
+@app.route('/index')
+def index(): 
+    return render_template('index.html')
   
 @app.route('/register', methods =['GET', 'POST'])
 def register():
@@ -68,3 +76,5 @@ def register():
     elif request.method == 'POST':
         msg = 'Please fill out the form !'
     return render_template('register.html', msg = msg)
+
+     
