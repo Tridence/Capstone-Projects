@@ -1,4 +1,4 @@
-p style="text-align: center;">### **Web Application Project:**</p>
+p style="text-align: center;">### **Web Application Project:**</p><h1 align="center"> Title </h1>
 
 #### **PROJECT SCREENSHOTS**
 
