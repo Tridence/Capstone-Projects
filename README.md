@@ -1,4 +1,4 @@
-p style="text-align: center;">### **Web Application Project:**</p><h1 align="center"> Title </h1>
+<h1 align="center"> Web Application Project</h1>
 
 #### **PROJECT SCREENSHOTS**
 
@@ -10,7 +10,7 @@ p style="text-align: center;">### **Web Application Project:**</p><h1 align="cen
 
 
 
-<center># **Data Science Project:**</center>
+<h1 align="center"> Data Science Project</h1>
 
 #### Sales by stores
 ![image](https://user-images.githubusercontent.com/48374660/131227773-75ab7377-846e-4310-affe-8704d64ca53a.png)
