@@ -4,18 +4,13 @@ You are required to create an authentication system wherein a user can log in to
 
 ### **Data Science Project:**
 
+#### Sales by stores
+![image](https://user-images.githubusercontent.com/48374660/131227773-75ab7377-846e-4310-affe-8704d64ca53a.png)
 
-Retail industry is a front-runner in the large scale employment of data science. Areas such as product placement, inventory management and customization
-of offers, are sought to improve constantly through the application of data science. [Walmart](https://www.walmart.com/) is one such retailer.
+#### Weekly Sales vs Holiday Sales
+![image](https://user-images.githubusercontent.com/48374660/131227789-71abde5e-9c38-4a27-810d-beeb009773e8.png)
 
-This [Walmart data set](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) provides information on the historical sales data of 45 stores of Walmart, each of which having various departments,you are reaquired 
-to predict the department-wise sales of each store using the historical data spanning across 143 weeks.
+#### Effect of markdown on the sales during the holiday seasons
+![image](https://user-images.githubusercontent.com/48374660/131227870-d0c159a0-620a-47c3-8ede-751199879c5a.png)
 
-Walmart is also known for conducting promotional markdown events before major holidays such as Christmas, Thanksgiving, and Super Bowl among others. 
-The difference between the weightage given to the data of regular weeks and the weeks including holiday seasons, coupled with unavailability of complete historical data, adds another level of difficulty of factoring the effects of the markdowns on the sales during the holiday weeks. This is a regression analysis problem.
 
-Objective:
-
-- Predict the sales across various departments in each store.
-
-- Predict the effect of markdowns on the sales during the holiday seasons.
