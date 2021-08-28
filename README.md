@@ -1,4 +1,4 @@
-### **Web Application Project:**
+<center># **Web Application Project:**</center>
 
 #### **PROJECT SCREENSHOTS**
 
@@ -10,7 +10,7 @@
 
 
 
-### **Data Science Project:**
+<center># **Data Science Project:**</center>
 
 #### Sales by stores
 ![image](https://user-images.githubusercontent.com/48374660/131227773-75ab7377-846e-4310-affe-8704d64ca53a.png)
